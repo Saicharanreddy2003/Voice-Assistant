@@ -1,0 +1,9 @@
+streamlit 
+sounddevice 
+numpy 
+scipy 
+pydub 
+pygame 
+openai 
+chardet 
+requests
