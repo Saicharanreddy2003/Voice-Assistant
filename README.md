@@ -4,11 +4,17 @@ This repository contains a voice-enabled assistant built using Python and Stream
 #Features
 
 Speech-to-Text: Converts user voice inputs into text using OpenAI's Whisper API.
+
 Text-to-Speech: Responds with audio playback using a text-to-speech model.
+
 Email Management: Reads and summarizes the last few emails from your inbox.
+
 Web Search: Performs online searches and summarizes the results.
+
 Weather Updates: Fetches real-time weather information for any city.
+
 Reminders: Adds and manages reminders locally.
+
 Daily News Summary: Summarizes the latest news and sends it to your email.
 
 #Requirements
