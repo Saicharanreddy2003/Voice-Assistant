@@ -23,7 +23,6 @@ How to Run
 
 
 #Clone this repository:
-
 git clone https://github.com/your-username/voice-assistant.git
 cd voice-assistant
 
@@ -33,7 +32,6 @@ pip install -r requirements.txt
 
 
 #Start the Streamlit app:
-
 streamlit run app.py
 
 
