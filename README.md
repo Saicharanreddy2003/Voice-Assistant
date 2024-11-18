@@ -27,13 +27,16 @@ How to Run
 git clone https://github.com/your-username/voice-assistant.git
 cd voice-assistant
 
+
 #Install dependencies:
 
 pip install -r requirements.txt
 
+
 #Start the Streamlit app:
 
 streamlit run app.py
+
 
 #Open the app in your browser and interact with the assistant.
 
